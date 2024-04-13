@@ -20,3 +20,6 @@ Note about handwriting:
 
 Can I ask you a question?
 -- Of course you can. I'll be putting a Discord username in here at one point, and you can reach me there for any questions or support. 
+
+NOTE:
+-- This repository is licensed under the GNU General Public License v3.0. See the [LICENSE](LICENSE) file for details.
