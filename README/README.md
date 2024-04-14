@@ -2,7 +2,7 @@
 using python to solve problems, among other things 
 
 
-Full descritipon:
+Full description:
 
 HI EVERYONE!!! This is a collection of notes and python program files for the James Stewart Calculus textbook, 8th edition (Single Variable Calculus Early Transcendentals).
 
